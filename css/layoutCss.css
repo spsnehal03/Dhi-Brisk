@@ -1,4 +1,4 @@
-#pro-gallery-comp-lwvmstl4 .pro-gallery-parent-container{ width: 0px !important; height: 0px !important; }
+#pro-gallery-comp-lwvmstl4 .pro-gallery-parent-container{ width: auto !important; height: auto !important; }
 #pro-gallery-comp-lwvmstl4 [data-hook="item-container"][data-idx="0"].gallery-item-container{opacity: 1 !important;display: block !important;transition: opacity .2s ease !important;top: 0px !important;left: 0px !important;right: auto !important;height: 1px !important;width: 1px !important;}
 #pro-gallery-comp-lwvmstl4 [data-hook="item-container"][data-idx="0"] .gallery-item-common-info-outer{height: 100% !important;}
 #pro-gallery-comp-lwvmstl4 [data-hook="item-container"][data-idx="0"] .gallery-item-common-info{height: 100% !important;width: 100% !important;}
@@ -54,5 +54,121 @@
   #comp-lk89hhhl {
     flex-direction: column !important;
     transform: none !important;
+  }
+}
+
+/* Responsive fixes */
+@media (max-width: 1024px) {
+  #comp-lkb4v69s_r_comp-lkb30wkh,
+  .inner-box {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+}
+@media (max-width: 768px) {
+  .pro-gallery-parent-container,
+  #pro-gallery-comp-lwvmstl4,
+  .gallery-slider,
+  .gallery-horizontal-scroll,
+  .gallery-horizontal-scroll-inner,
+  .item-link-wrapper {
+    width: 100% !important;
+    max-width: 100% !important;
+    box-sizing: border-box;
+  }
+}
+@media (max-width: 375px) {
+  #comp-lk9pm29g__item1,
+  #comp-lk9pm29g__item-j9ples3e,
+  #comp-lk9pm29g__item-j9plerjk,
+  #comp-lk9pm29g__item-kbjje84i,
+  #comp-lk9pm29g__item-lk9pjo8o,
+  #comp-lk9pm29g__item-m9ccj6ga {
+    width: 100% !important;
+    max-width: 100% !important;
+    box-sizing: border-box;
+  }
+}
+
+/* Additional responsive fixes for remaining overflow elements */
+@media (max-width: 1024px) {
+  #comp-lkb4v69s_r_comp-lkb30wkh,
+  .inner-box {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+  #comp-lkb4v69s_r_comp-lkb30wkh * {
+    max-width: 100% !important;
+  }
+}
+
+@media (max-width: 768px) {
+  .pro-gallery-parent-container,
+  #pro-gallery-comp-lwvmstl4,
+  .gallery-slider,
+  .gallery-horizontal-scroll,
+  .gallery-horizontal-scroll-inner,
+  .item-link-wrapper {
+    width: 100% !important;
+    max-width: 100% !important;
+    box-sizing: border-box !important;
+  }
+  .pro-gallery-parent-container * {
+    max-width: 100% !important;
+  }
+}
+
+@media (max-width: 375px) {
+  #comp-lk9pm29g__item1,
+  #comp-lk9pm29g__item-j9ples3e,
+  #comp-lk9pm29g__item-j9plerjk,
+  #comp-lk9pm29g__item-kbjje84i,
+  #comp-lk9pm29g__item-lk9pjo8o,
+  #comp-lk9pm29g__item-m9ccj6ga,
+  .font_4,
+  .wixui-rich-text__text {
+    width: 100% !important;
+    max-width: 100% !important;
+    box-sizing: border-box !important;
+  }
+}
+
+/* Mobile overflow fix – eliminate 375px overflow */
+@media (max-width: 375px) {
+  /* Constrain container width only */
+  #comp-lk9pm29g {
+    width: auto !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+  }
+
+  /* Ensure rich‑text wraps without forcing every child */
+  .wixui-rich-text,
+  .wixui-rich-text__text {
+    width: 100% !important;
+    max-width: 100% !important;
+    white-space: normal !important;
+    overflow-wrap: break-word !important;
+  }
+} 
+
+@media (max-width: 375px) {
+  #comp-lk9pm29g,
+  #comp-lk9pm29g * {
+    max-width: 100% !important;
+    box-sizing: border-box !important;
+  }
+
+  #comp-lk9pm29g {
+    width: 100% !important;
+    overflow-x: hidden !important;
+    min-width: 0 !important;
+  }
+
+  #comp-lk9pm29g .wixui-rich-text__text {
+    margin: 0 !important;
+    padding: 0 !important;
+    white-space: normal !important;
+    overflow-wrap: break-word !important;
   }
 }
