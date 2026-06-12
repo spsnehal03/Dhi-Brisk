@@ -1,0 +1,393 @@
+{
+  "chain": [
+    {
+      "tag": "DIV",
+      "id": "comp-lk89smno_r_comp-lk89hhhl",
+      "classList": [
+        "N8MGzv",
+        "_v6ohL",
+        "ZS_qLz",
+        "PO9MfV",
+        "comp-lk89smno_r_comp-lk89hhhl",
+        "wixui-rich-text"
+      ],
+      "outerHTMLSnippet": "<div id=\"comp-lk89smno_r_comp-lk89hhhl\" class=\"N8MGzv _v6ohL ZS_qLz PO9MfV comp-lk89smno_r_comp-lk89hhhl wixui-rich-text\" data-testid=\"richTextElement\">\n                                  <p class=\"fon",
+      "boundingClientRect": {
+        "width": 144.34375,
+        "right": 227.84375
+      },
+      "computedStyle": {
+        "width": "144.344px",
+        "minWidth": "0px",
+        "maxWidth": "99999px",
+        "display": "block",
+        "position": "relative",
+        "flex": "0 1 auto",
+        "transform": "none"
+      },
+      "inlineStyle": ""
+    },
+    {
+      "tag": "DIV",
+      "id": null,
+      "classList": [
+        "comp-lk89smno_r_comp-lk89brvj-container"
+      ],
+      "outerHTMLSnippet": "<div data-testid=\"responsive-container-content\" role=\"group\" class=\"comp-lk89smno_r_comp-lk89brvj-container\"><!--$-->\n                                <div id=\"comp-lk89smno_r_comp-lw1qit0l\" data-testi",
+      "boundingClientRect": {
+        "width": 315,
+        "right": 345
+      },
+      "computedStyle": {
+        "width": "315px",
+        "minWidth": "auto",
+        "maxWidth": "none",
+        "display": "grid",
+        "position": "relative",
+        "flex": "1 1 auto",
+        "transform": "none"
+      },
+      "inlineStyle": ""
+    },
+    {
+      "tag": "DIV",
+      "id": "comp-lk89smno_r_comp-lk89brvj",
+      "classList": [
+        "HFEOE3",
+        "NaeT1r",
+        "comp-lk89smno_r_comp-lk89brvj",
+        "wixui-box"
+      ],
+      "outerHTMLSnippet": "<div id=\"comp-lk89smno_r_comp-lk89brvj\" role=\"\" class=\"HFEOE3 NaeT1r comp-lk89smno_r_comp-lk89brvj wixui-box\" dir=\"ltr\">\n                              <div aria-hidden=\"true\" class=\"jdJeEr NYfD3h inne",
+      "boundingClientRect": {
+        "width": 315,
+        "right": 345
+      },
+      "computedStyle": {
+        "width": "315px",
+        "minWidth": "0px",
+        "maxWidth": "none",
+        "display": "flex",
+        "position": "relative",
+        "flex": "0 1 auto",
+        "transform": "none"
+      },
+      "inlineStyle": ""
+    },
+    {
+      "tag": "DIV",
+      "id": null,
+      "classList": [
+        "comp-lk89smno_r_comp-lk89slg9-container"
+      ],
+      "outerHTMLSnippet": "<div data-testid=\"responsive-container-content\" role=\"group\" class=\"comp-lk89smno_r_comp-lk89slg9-container\"><!--$-->\n                            <div id=\"comp-lk89smno_r_comp-lk89brvj\" role=\"\" class=",
+      "boundingClientRect": {
+        "width": 375,
+        "right": 375
+      },
+      "computedStyle": {
+        "width": "375px",
+        "minWidth": "auto",
+        "maxWidth": "none",
+        "display": "grid",
+        "position": "relative",
+        "flex": "0 1 auto",
+        "transform": "none"
+      },
+      "inlineStyle": ""
+    },
+    {
+      "tag": "SECTION",
+      "id": "comp-lk89smno_r_comp-lk89slg9",
+      "classList": [
+        "ke5pl1",
+        "comp-lk89smno_r_comp-lk89slg9",
+        "wixui-header",
+        "fwXYgt"
+      ],
+      "outerHTMLSnippet": "<section id=\"comp-lk89smno_r_comp-lk89slg9\" tabindex=\"-1\" data-block-level-container=\"Section\" class=\"ke5pl1 comp-lk89smno_r_comp-lk89slg9 ke5pl1 wixui-header fwXYgt\" data-testid=\"section-container\">\n",
+      "boundingClientRect": {
+        "width": 375,
+        "right": 375
+      },
+      "computedStyle": {
+        "width": "375px",
+        "minWidth": "0px",
+        "maxWidth": "99999px",
+        "display": "grid",
+        "position": "relative",
+        "flex": "0 1 auto",
+        "transform": "none"
+      },
+      "inlineStyle": ""
+    },
+    {
+      "tag": "HEADER",
+      "id": "comp-lk89smno",
+      "classList": [
+        "comp-lk89smno",
+        "S829f_",
+        "comp-lk89smno-container"
+      ],
+      "outerHTMLSnippet": "<header id=\"comp-lk89smno\" class=\"comp-lk89smno S829f_ comp-lk89smno-container\" slots=\"[object Object]\" wix=\"[object Object]\">\n                        <section id=\"comp-lk89smno_r_comp-lk89slg9\" tabin",
+      "boundingClientRect": {
+        "width": 375,
+        "right": 375
+      },
+      "computedStyle": {
+        "width": "375px",
+        "minWidth": "auto",
+        "maxWidth": "none",
+        "display": "grid",
+        "position": "relative",
+        "flex": "0 1 auto",
+        "transform": "none"
+      },
+      "inlineStyle": ""
+    },
+    {
+      "tag": "DIV",
+      "id": "comp-lk89smno-pinned-layer",
+      "classList": [
+        "comp-lk89smno-pinned-layer",
+        "QED8q1"
+      ],
+      "outerHTMLSnippet": "<div id=\"comp-lk89smno-pinned-layer\" class=\"comp-lk89smno-pinned-layer QED8q1\">\n                      <header id=\"comp-lk89smno\" class=\"comp-lk89smno S829f_ comp-lk89smno-container\" slots=\"[object Obj",
+      "boundingClientRect": {
+        "width": 375,
+        "right": 375
+      },
+      "computedStyle": {
+        "width": "375px",
+        "minWidth": "0px",
+        "maxWidth": "none",
+        "display": "grid",
+        "position": "fixed",
+        "flex": "0 1 auto",
+        "transform": "none"
+      },
+      "inlineStyle": ""
+    },
+    {
+      "tag": "DIV",
+      "id": null,
+      "classList": [
+        "c1dmp-container"
+      ],
+      "outerHTMLSnippet": "<div data-testid=\"responsive-container-content\" tabindex=\"-1\" role=\"group\" class=\"c1dmp-container\">\n                    <!--$-->\n                    <div id=\"comp-lk89smno-pinned-layer\" class=\"comp-lk",
+      "boundingClientRect": {
+        "width": 375,
+        "right": 375
+      },
+      "computedStyle": {
+        "width": "375px",
+        "minWidth": "auto",
+        "maxWidth": "none",
+        "display": "grid",
+        "position": "relative",
+        "flex": "0 1 auto",
+        "transform": "none"
+      },
+      "inlineStyle": ""
+    },
+    {
+      "tag": "DIV",
+      "id": null,
+      "classList": [
+        "c1dmp-overflow-wrapper",
+        "ku1hVK"
+      ],
+      "outerHTMLSnippet": "<div class=\"c1dmp-overflow-wrapper ku1hVK\" data-testid=\"responsive-container-overflow\">\n                  <div data-testid=\"responsive-container-content\" tabindex=\"-1\" role=\"group\" class=\"c1dmp-contai",
+      "boundingClientRect": {
+        "width": 375,
+        "right": 375
+      },
+      "computedStyle": {
+        "width": "375px",
+        "minWidth": "0px",
+        "maxWidth": "none",
+        "display": "grid",
+        "position": "relative",
+        "flex": "0 1 auto",
+        "transform": "none"
+      },
+      "inlineStyle": ""
+    },
+    {
+      "tag": "DIV",
+      "id": null,
+      "classList": [],
+      "outerHTMLSnippet": "<div>\n                <div class=\"c1dmp-overflow-wrapper ku1hVK\" data-testid=\"responsive-container-overflow\">\n                  <div data-testid=\"responsive-container-content\" tabindex=\"-1\" role=\"grou",
+      "boundingClientRect": {
+        "width": 375,
+        "right": 375
+      },
+      "computedStyle": {
+        "width": "375px",
+        "minWidth": "auto",
+        "maxWidth": "none",
+        "display": "block",
+        "position": "static",
+        "flex": "0 1 auto",
+        "transform": "none"
+      },
+      "inlineStyle": ""
+    },
+    {
+      "tag": "DIV",
+      "id": "c1dmp",
+      "classList": [
+        "ETqrjz",
+        "theme-vars",
+        "c1dmp"
+      ],
+      "outerHTMLSnippet": "<div id=\"c1dmp\" class=\"ETqrjz theme-vars c1dmp\">\n              <div class=\"g0IvTF wixui-page\" data-testid=\"page-bg\"></div>\n              <div>\n                <div class=\"c1dmp-overflow-wrapper ku1hVK",
+      "boundingClientRect": {
+        "width": 375,
+        "right": 375
+      },
+      "computedStyle": {
+        "width": "375px",
+        "minWidth": "0px",
+        "maxWidth": "none",
+        "display": "grid",
+        "position": "relative",
+        "flex": "0 1 auto",
+        "transform": "none"
+      },
+      "inlineStyle": ""
+    },
+    {
+      "tag": "DIV",
+      "id": "SITE_PAGES",
+      "classList": [
+        "Y3K28_",
+        "SITE_PAGES"
+      ],
+      "outerHTMLSnippet": "<div id=\"SITE_PAGES\" class=\"Y3K28_ SITE_PAGES\">\n            <div id=\"c1dmp\" class=\"ETqrjz theme-vars c1dmp\">\n              <div class=\"g0IvTF wixui-page\" data-testid=\"page-bg\"></div>\n              <di",
+      "boundingClientRect": {
+        "width": 375,
+        "right": 375
+      },
+      "computedStyle": {
+        "width": "375px",
+        "minWidth": "0px",
+        "maxWidth": "none",
+        "display": "block",
+        "position": "static",
+        "flex": "0 1 auto",
+        "transform": "none"
+      },
+      "inlineStyle": ""
+    },
+    {
+      "tag": "DIV",
+      "id": "masterPage",
+      "classList": [
+        "masterPage",
+        "css-editing-scope"
+      ],
+      "outerHTMLSnippet": "<div id=\"masterPage\" class=\"masterPage css-editing-scope\">\n          <div id=\"SITE_PAGES\" class=\"Y3K28_ SITE_PAGES\">\n            <div id=\"c1dmp\" class=\"ETqrjz theme-vars c1dmp\">\n              <div cla",
+      "boundingClientRect": {
+        "width": 375,
+        "right": 375
+      },
+      "computedStyle": {
+        "width": "375px",
+        "minWidth": "0px",
+        "maxWidth": "none",
+        "display": "block",
+        "position": "static",
+        "flex": "0 1 auto",
+        "transform": "none"
+      },
+      "inlineStyle": ""
+    },
+    {
+      "tag": "DIV",
+      "id": "site-root",
+      "classList": [
+        "site-root"
+      ],
+      "outerHTMLSnippet": "<div id=\"site-root\" class=\"site-root\">\n        <div id=\"masterPage\" class=\"masterPage css-editing-scope\">\n          <div id=\"SITE_PAGES\" class=\"Y3K28_ SITE_PAGES\">\n            <div id=\"c1dmp\" class=\"E",
+      "boundingClientRect": {
+        "width": 375,
+        "right": 375
+      },
+      "computedStyle": {
+        "width": "375px",
+        "minWidth": "0px",
+        "maxWidth": "none",
+        "display": "block",
+        "position": "relative",
+        "flex": "0 1 auto",
+        "transform": "none"
+      },
+      "inlineStyle": ""
+    },
+    {
+      "tag": "DIV",
+      "id": "main_MF",
+      "classList": [
+        "main_MF"
+      ],
+      "outerHTMLSnippet": "<div id=\"main_MF\" class=\"main_MF\">\n      <div id=\"SCROLL_TO_TOP\" class=\"qe3oTb ignore-focus SCROLL_TO_TOP\" role=\"region\" tabindex=\"-1\" aria-label=\"top of page\"><span class=\"TvbeET\">top of page</span><",
+      "boundingClientRect": {
+        "width": 375,
+        "right": 375
+      },
+      "computedStyle": {
+        "width": "375px",
+        "minWidth": "0px",
+        "maxWidth": "none",
+        "display": "block",
+        "position": "static",
+        "flex": "0 1 auto",
+        "transform": "none"
+      },
+      "inlineStyle": ""
+    },
+    {
+      "tag": "DIV",
+      "id": "SITE_CONTAINER",
+      "classList": [],
+      "outerHTMLSnippet": "<div id=\"SITE_CONTAINER\">\n    <div id=\"main_MF\" class=\"main_MF\">\n      <div id=\"SCROLL_TO_TOP\" class=\"qe3oTb ignore-focus SCROLL_TO_TOP\" role=\"region\" tabindex=\"-1\" aria-label=\"top of page\"><span clas",
+      "boundingClientRect": {
+        "width": 375,
+        "right": 375
+      },
+      "computedStyle": {
+        "width": "375px",
+        "minWidth": "0px",
+        "maxWidth": "none",
+        "display": "block",
+        "position": "relative",
+        "flex": "0 1 auto",
+        "transform": "none"
+      },
+      "inlineStyle": ""
+    },
+    {
+      "tag": "BODY",
+      "id": null,
+      "classList": [
+        "responsive"
+      ],
+      "outerHTMLSnippet": "<body class=\"responsive\">\n  <script type=\"text/javascript\">\n    var bodyCacheable = true;\n\n    var exclusionReason = { \"shouldRender\": true, \"forced\": false };\n    var ssrInfo = { \"cacheExclusionReaso",
+      "boundingClientRect": {
+        "width": 375,
+        "right": 375
+      },
+      "computedStyle": {
+        "width": "375px",
+        "minWidth": "0px",
+        "maxWidth": "none",
+        "display": "block",
+        "position": "static",
+        "flex": "0 1 auto",
+        "transform": "none"
+      },
+      "inlineStyle": ""
+    }
+  ]
+}
